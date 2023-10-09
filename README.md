@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [qdrant rust client](https://www.youtube.com/watch?v=e9z8Q65ziy0)
+- [4 4 quickstart qdrant](https://www.youtube.com/watch?v=6zvnPirRz50)
+- [4 3 semantic search](https://www.youtube.com/watch?v=SgCd2o6hJIA)
+- [4 2 what are vector db](https://www.youtube.com/watch?v=dA4W-4KT4KI)
+- [4 1 picking database](https://www.youtube.com/watch?v=tQxO_KnTCm4)
+- [Build  and Deploy Polars Rust Lambda with Function URLs](https://www.youtube.com/watch?v=J2FjHSBcZcE)
 - [Live Coding AWS Whisperer](https://www.youtube.com/watch?v=aTlDmawyNJE)
-- [Live Coding Rust Candle](https://www.youtube.com/watch?v=xBn-9YwkNfI)
-- [Using crud dynamodb cli](https://www.youtube.com/watch?v=pj5vACQeGBQ)
-- [Multiline Rust Completion AWS CodeWhisperer](https://www.youtube.com/watch?v=epL3ehmjP9M)
-- [52 Weeks of AWS](https://www.youtube.com/watch?v=vU2gTbGcKuo)
-- [Live Coding Rust](https://www.youtube.com/watch?v=drao6noAmcw)
-- [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=4uEi-dRPl2g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
